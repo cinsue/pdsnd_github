@@ -5,7 +5,19 @@ Project creation date: 7/15/2020
 Bike Share Data Analysis
 
 ### Description
-In this project, Python was used to explore data (provided by Motivate) related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. The script takes in raw input to create an interactive experience in the terminal to present statistics for a requested city.
+In this project, Python was used to explore data (provided by Motivate) related to bike share systems for three major cities in the United States - Chicago, New York City, and Washington. The script takes in raw input to create an interactive experience in the terminal to present statistics for a requested city.
+
+Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+Start Time (e.g., 2017-01-01 00:07:57)
+End Time (e.g., 2017-01-01 00:20:53)
+Trip Duration (in seconds - e.g., 776)
+Start Station (e.g., Broadway & Barry Ave)
+End Station (e.g., Sedgwick St & North Ave)
+User Type (Subscriber or Customer)
+
+The Chicago and New York City files also have the following two columns:
+Gender
+Birth Year
 
 These are the statistics computed:
 
