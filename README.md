@@ -29,7 +29,7 @@ counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
-Include the files used
+bikeshare.py is the main script. This project also uses three city dataset files: chicago.csv, new_york_city.csv, and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The project description was taken from Udacity's "Explore US Bikeshare Data" Project Overview and Details sections.
