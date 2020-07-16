@@ -32,4 +32,8 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 bikeshare.py is the main script. This project also uses three city dataset files: chicago.csv, new_york_city.csv, and washington.csv
 
 ### Credits
-The project description was taken from Udacity's "Explore US Bikeshare Data" Project Overview and Details sections.
+https://stackoverflow.com/questions/14639077/how-to-use-sys-exit-in-python
+http://www.datasciencemadesimple.com/mode-function-python-pandas-dataframe-row-column-wise-mode/
+https://www.geeksforgeeks.org/python-pandas-dataframe-idxmax/
+https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
+https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm
