@@ -220,7 +220,7 @@ def display_raw_data(df):
         user_cancel()
 
 def user_cancel():
-    """Displays message when a user cancel's the script."""
+    """Displays message when a user cancels the script."""
     print('You cancelled the script.')
     sys.exit(0)
 
